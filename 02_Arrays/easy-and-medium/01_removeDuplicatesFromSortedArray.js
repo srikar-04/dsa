@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+
 var removeDuplicates = function(nums) {
     let pointer1 = 0
     let pointer2 = 1
